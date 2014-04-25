@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">offcomm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="header">\t\t\tSelect the country enter your \n \tphone number and click continue</string>
+  <string name="bottom">2014 OffComm Privacy Settings</string>
+</resources>
